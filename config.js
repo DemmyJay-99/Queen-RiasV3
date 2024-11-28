@@ -1,7 +1,7 @@
 module.exports = {
     prefix: '.', // Set your command prefix
     ownerName: 'Toxxic',
-    ownerNumber: '2348165846414', // Your WhatsApp number in international format
+    ownerNumber: '2348105202390', // Your WhatsApp number in international format
     mode: 'private', // Default mode; can be 'public' or 'private'
     region: 'Nigeria', 
     botName: 'Rias Gremory V3', 
